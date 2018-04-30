@@ -1,2 +1,2 @@
-webpackJsonp([0x834755aae49e],{329:function(t,e){t.exports={data:{wordpressPost:{title:"Hello world!",content:"<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>\n"},site:{siteMetadata:{title:"HGS",subtitle:"HGS Site"}}},pathContext:{id:"2347739f-f4fa-5d13-8eac-4a0059e4ff82"}}}});
+webpackJsonp([0x834755aae49e],{330:function(t,e){t.exports={data:{wordpressPost:{title:"Hello world!",content:"<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>\n"},site:{siteMetadata:{title:"HGS",subtitle:"HGS Site"}}},pathContext:{id:"2347739f-f4fa-5d13-8eac-4a0059e4ff82"}}}});
 //# sourceMappingURL=path---hello-world-08e55f377b25cf86f558.js.map
