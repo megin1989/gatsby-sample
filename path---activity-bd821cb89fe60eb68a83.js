@@ -1,0 +1,2 @@
+webpackJsonp([0xc15cf27f08c3],{337:function(t,e){t.exports={data:{wordpressPage:{title:"Site-Wide Activity",content:"",date:"August 30, 2016"},site:{id:"Site",siteMetadata:{title:"HGS",subtitle:"HGS Site"}}},pathContext:{id:"6717c4a3-2d93-5945-9c2d-7ae76d998ef9"}}}});
+//# sourceMappingURL=path---activity-bd821cb89fe60eb68a83.js.map

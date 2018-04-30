@@ -1,0 +1,2 @@
+webpackJsonp([0x834755aae49e],{341:function(t,e){t.exports={data:{wordpressPost:{title:"Hello world!",content:"<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing! test</p>\n"},site:{siteMetadata:{title:"HGS",subtitle:"HGS Site"}}},pathContext:{id:"2347739f-f4fa-5d13-8eac-4a0059e4ff82"}}}});
+//# sourceMappingURL=path---hello-world-c61302d8c0b2b8c0befb.js.map

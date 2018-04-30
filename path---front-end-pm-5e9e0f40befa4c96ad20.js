@@ -1,0 +1,2 @@
+webpackJsonp([0xb16faaab6cd6],{339:function(t,e){t.exports={data:{wordpressPage:{title:"front-end-pm",content:"<p>[front-end-pm]</p>\n",date:"May 10, 2017"},site:{id:"Site",siteMetadata:{title:"HGS",subtitle:"HGS Site"}}},pathContext:{id:"1cb70681-5f0d-5c15-a9e0-977216cba9b4"}}}});
+//# sourceMappingURL=path---front-end-pm-5e9e0f40befa4c96ad20.js.map

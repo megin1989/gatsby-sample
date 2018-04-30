@@ -1,0 +1,2 @@
+webpackJsonp([27819467555517],{346:function(t,e){t.exports={data:{wordpressPage:{title:"typeform",content:"",date:"May 22, 2017"},site:{id:"Site",siteMetadata:{title:"HGS",subtitle:"HGS Site"}}},pathContext:{id:"87a04379-6990-5528-b810-a9329a84356c"}}}});
+//# sourceMappingURL=path---typeform-aed923c4122268a34b44.js.map

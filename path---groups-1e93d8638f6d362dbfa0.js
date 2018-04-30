@@ -1,0 +1,2 @@
+webpackJsonp([0x8c8a7279dcc0],{340:function(t,e){t.exports={data:{wordpressPage:{title:"Groups",content:"",date:"August 30, 2016"},site:{id:"Site",siteMetadata:{title:"HGS",subtitle:"HGS Site"}}},pathContext:{id:"78eeb794-175d-5dd5-a8f1-f97ffd81bfec"}}}});
+//# sourceMappingURL=path---groups-1e93d8638f6d362dbfa0.js.map

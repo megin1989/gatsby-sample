@@ -1,0 +1,2 @@
+webpackJsonp([0xc7d64db1b899],{338:function(t,e){t.exports={data:{wordpressPage:{title:"contactus",content:"<p>contact me</p>\n",date:"June 29, 2017"},site:{id:"Site",siteMetadata:{title:"HGS",subtitle:"HGS Site"}}},pathContext:{id:"c85fa508-7744-59ac-9682-439091af045f"}}}});
+//# sourceMappingURL=path---contactus-ac7ece4eb244ed5fa725.js.map
